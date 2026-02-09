@@ -15,7 +15,6 @@ body {
     overflow: hidden;
 }
 
-/* Optional: Loading screen styles */
 .loading {
     position: fixed;
     top: 50%;

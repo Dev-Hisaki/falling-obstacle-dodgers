@@ -1,5 +1,3 @@
-// Main Phaser Game Configuration
-// Similar to Unity's ProjectSettings
 const config = {
   type: Phaser.AUTO,
   width: GameConstants.GAME_WIDTH,
